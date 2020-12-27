@@ -1,4 +1,4 @@
-# HiveMind Domain
+# HiveMind/ | a Handshake TLD
 
 Where we as co-creators come together...as one!! 
 
